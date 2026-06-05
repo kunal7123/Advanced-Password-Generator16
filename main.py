@@ -44,3 +44,6 @@ if save.lower() == 'y':
         file.write(password + "\n")
     print("Password saved successfully!")
     
+    
+    
+print("\nThank you for using Advanced Password Generator!")
